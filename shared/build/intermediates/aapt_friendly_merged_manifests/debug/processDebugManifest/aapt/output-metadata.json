@@ -1,0 +1,18 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "AAPT_FRIENDLY_MERGED_MANIFESTS",
+    "kind": "Directory"
+  },
+  "applicationId": "rii.project.logkar_driver_mobile",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "outputFile": "AndroidManifest.xml"
+    }
+  ],
+  "elementType": "File"
+}
