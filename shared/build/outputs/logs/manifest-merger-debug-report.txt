@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/raderido/AndroidStudioProjects/Try/logkar-driver-mobile/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9794283827862260125.xml:2:13-83
+INJECTED from /Users/raderido/AndroidStudioProjects/Try/logkar-driver-mobile/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9794283827862260125.xml:2:13-83
+	package
+		INJECTED from /Users/raderido/AndroidStudioProjects/Try/logkar-driver-mobile/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9794283827862260125.xml
+	xmlns:android
+		ADDED from /Users/raderido/AndroidStudioProjects/Try/logkar-driver-mobile/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9794283827862260125.xml:2:23-81
+uses-sdk
+INJECTED from /Users/raderido/AndroidStudioProjects/Try/logkar-driver-mobile/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9794283827862260125.xml reason: use-sdk injection requested
+INJECTED from /Users/raderido/AndroidStudioProjects/Try/logkar-driver-mobile/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9794283827862260125.xml
+INJECTED from /Users/raderido/AndroidStudioProjects/Try/logkar-driver-mobile/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9794283827862260125.xml
+	android:targetSdkVersion
+		INJECTED from /Users/raderido/AndroidStudioProjects/Try/logkar-driver-mobile/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9794283827862260125.xml
+	android:minSdkVersion
+		INJECTED from /Users/raderido/AndroidStudioProjects/Try/logkar-driver-mobile/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9794283827862260125.xml
